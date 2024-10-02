@@ -3,8 +3,8 @@ Q2
 package AbstractPack;
 
 public abstract class GeometricShape {
-	  abstract public double area(); // Changed return type to double
-		    abstract public double perimeter(); // Changed return type to double
+	  abstract public double area(); 
+		    abstract public double perimeter(); 
 		}
 
 		// Circle class
